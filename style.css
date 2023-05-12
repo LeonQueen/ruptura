@@ -1,0 +1,14 @@
+:root {
+    --cor-de-fundo: #116daa;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1{
+    background-color: #4e1261;
+    color: rgb(41, 139, 110);
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
